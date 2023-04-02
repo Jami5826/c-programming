@@ -19,8 +19,10 @@ int main()
     printf("%d",mod);
     return 0;
 }
+// 1.+(plus),2.-(minus),3.*(multiplus),4./(divide),5,%(mod)
 // int sum;
 // sum=a+b;
 // aivabeo likha jay
 // 20 ke 3 diye bhag korle ans hoy 6.66666667.. kinto int dile khli 6 print korbe
 // tai porata print korte hole float diye kaj korbo+ akta shortkat jkono aktake 0.1 diye *(gon) korbo.
+// mod means bhagsesh ja %(mod)

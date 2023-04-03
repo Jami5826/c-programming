@@ -21,3 +21,4 @@ int main()
     }
     return 0;
 }
+// akta condition er bhitor r erta condition, aitake bole NESTED IF ELSE.....

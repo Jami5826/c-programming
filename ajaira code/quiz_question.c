@@ -1,16 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int x=0;
-    if (x)
-    // x=0 akhon ) mne hocche false r bki ja ase oigola hole true..
-    // tahole jinis ta amn if(0).. jeheto 0 mne false ..tai if er shortotao false..Tai computer ar if er bhitorer shorto cheak korbe nah.. direct else e chole jabe..
-    {
-        printf("hi");
-    }
-    else
-    {
-        printf("how are you?");
-    }
+    int a=1000000000;
+    long long int b=100000000000000;
+    float f=2.5;
+    double d=2.0123456789123456;
+    printf("%d\n",a);
+    printf("%lld\n",b);
+    printf("%f\n",f);
+    printf("%lf\n",d);
+    printf("%0.15lf\n",d);
     return 0;
 }

@@ -17,6 +17,12 @@ int main()
                 printf("ODD");
             }
         }
+        if(m<=9)
+        {
+            return 0;
+        }
+        
     }
     return 0;
-}
+}   
+
